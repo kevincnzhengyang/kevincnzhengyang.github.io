@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/GardenCondo/arrival-thailand/</loc>
+<loc>/arrival-thailand/</loc>
 <lastmod>2021-08-24T00:00:00+07:00</lastmod>
 </url>
 <url>
-<loc>/GardenCondo/about</loc>
+<loc>/about</loc>
 </url>
 <url>
-<loc>/GardenCondo/categories</loc>
+<loc>/categories</loc>
 </url>
 <url>
-<loc>/GardenCondo/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>/GardenCondo/tags</loc>
+<loc>/tags</loc>
 </url>
 <url>
-<loc>/GardenCondo/category/%E9%99%AA%E8%AF%BB%E7%94%9F%E6%B4%BB/</loc>
+<loc>/category/%E9%99%AA%E8%AF%BB%E7%94%9F%E6%B4%BB/</loc>
 </url>
 <url>
-<loc>/GardenCondo/category/convoid-19/</loc>
+<loc>/category/convoid-19/</loc>
 </url>
 </urlset>
