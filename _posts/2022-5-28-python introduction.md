@@ -1,13 +1,3 @@
-<!--
- * @Author: kevin.z.y
- * @Date: 2022-05-28 07:21:55
- * @LastEditors: kevin.z.y
- * @LastEditTime: 2022-05-28 08:30:31
- * @FilePath: /kevincnzhengyang.github.io/_posts/2022-5-28-python introduction.md
- * @Description:
- * kevin.cn.zhengyang@gmail.com
- * Copyright (c) 2022 by Zheng, Yang, All Rights Reserved.
--->
 ---
 layout: post
 title:  "Python学习浅淡"
