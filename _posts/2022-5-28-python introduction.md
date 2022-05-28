@@ -51,7 +51,7 @@ Python最吸引人的地方，在于丰富且庞大的扩展库资源。
 总结不完的总结， 简单罗列一下：
 
 - [学习Python，常用的这22个库怎能不掌握？](https://developer.51cto.com/article/709615.html)
-- [耗时6个月，整理了538个Python常用库！][https://blog.51cto.com/u_15493782/5012032]
+- [耗时6个月，整理了538个Python常用库！](https://blog.51cto.com/u_15493782/5012032)
 - 最全大全[Awesome Python](https://github.com/vinta/awesome-python)
 
 # 个人建议
@@ -62,4 +62,4 @@ Python最吸引人的地方，在于丰富且庞大的扩展库资源。
 - Web服务领域：FastAPI、TortoiseORM或者SQLAlchemy、Dash
 - 数据分析与处理：Numpy、Pandas、Streamlit
 
-另外，在各个系统上管理Python解释器运行环境，也是实际工作经常要面对的问题，建议学习pip及poetry、conda或者pyenv之一。
+在各个系统上管理Python解释器运行环境，也是实际工作经常要面对的问题，建议学习pip及poetry、conda或者pyenv之一。
